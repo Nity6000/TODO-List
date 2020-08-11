@@ -18,7 +18,7 @@ class App extends Component {
       },
       {
         id: 3,
-        title: 'poop',
+        title: 'sleep',
         completed: false
       }
     ]
